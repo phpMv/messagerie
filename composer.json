@@ -1,0 +1,19 @@
+{
+	"require" : {
+		"twig/twig" : "~1.0",
+		"mindplay/annotations" : "dev-master",
+		"phpmv/php-mv-ui" : "dev-master",
+		"phpfastcache/phpfastcache" : "^6.0",
+		"mongodb/mongodb" : "^1.1",
+		"phpmv/ubiquity" : "2.0.x-dev"
+	},
+	"autoload" : {
+		"psr-4" : {
+			"" : "app/"
+		}
+	},
+	"apcu-autoloader" : true,
+	"require-dev" : {
+		"czproject/git-php" : "^3.13"
+	}
+}

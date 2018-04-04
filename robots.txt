@@ -1,0 +1,2 @@
+Sitemap: http:/127.0.0.1/messagerie/Soe
+Sitemap: http:/127.0.0.1/messagerie/soeAdmin/test/
